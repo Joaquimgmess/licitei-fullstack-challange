@@ -42,6 +42,7 @@ Desenvolver uma aplicação fullstack para gerenciamento de sessões de cinema, 
 - Um simples chat com AI para consultar os dados das seções:
 - "Quais os filmes para a semana?"
 - "Quais os filme para hoje?"
+- "Qual a sinopse do filme(?)"
 
 
 ---
