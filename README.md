@@ -34,18 +34,15 @@ Desenvolver uma aplicação fullstack para gerenciamento de sessões de cinema, 
   - Data da reserva
   - Tipo de movimentação (reserva ou cancelamento)
 
-### 3. Relatórios e Dashboard
+### 3. Dashboard
 - Lista atualizada de sessões e ocupação
-- Total de assentos ocupados por sessão
-- Receita gerada por filme/período
 - Sessões mais procuradas
-- Gráficos no dashboard mostrando desempenho por horário, sala ou gênero
 
 ### 4. Agente de IA
-- Interagir via linguagem natural com comandos como:
-  - "Quantos ingressos foram vendidos para ‘Duna 2’ esta semana?"
-  - "Reservar 3 assentos para a sessão de ‘Barbie’ às 20h"
-  - "Cancelar a reserva do assento A5 da sessão de ‘Oppenheimer’ amanhã"
+- Um simples chat com AI para consultar os dados das seções:
+- "Quais os filmes para a semana?"
+- "Quais os filme para hoje?"
+
 
 ---
 
